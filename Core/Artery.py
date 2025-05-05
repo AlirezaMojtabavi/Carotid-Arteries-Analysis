@@ -2,10 +2,6 @@ from Core.Centerline import Centerline
 import matplotlib.pyplot as plt
 import pandas as pd
 from collections import OrderedDict
-from MathematicalFunction import MathematicalFunction as MF
-from VTKModule.VTKReader import VTKReader
-from VTKModule.VTKUtils import VTKUtils
-from VTKModule.Writer import Writer
 
 
 class Artery:
